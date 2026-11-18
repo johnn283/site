@@ -1,0 +1,6 @@
+{
+  "name": "J.A VOZ – Estúdio de Gravações",
+  "description": "Estúdio profissional de gravação, vinhetas para DJs e paredões, spots comerciais, locuções para carro de som, chamadas para eventos e artes em São Luís Gonzaga do Maranhão – MA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
